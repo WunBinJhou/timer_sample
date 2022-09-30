@@ -78,7 +78,3 @@ class _MyTimerPageState extends ConsumerState {
     );
   }
 }
-
-//我們今天要來做一個簡單的倒數一分鐘的小 timer
-//我想要實作的功能是當顯示畫面的時候就開始倒數，而時間歸零的時候可以再次點擊按鈕倒數
-//倒數我們會需要
